@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-63.963875,-63.965568)">
+        <g id="Hotkey">
+            <g transform="matrix(2.748106,0,0,2.748221,-212.291539,-17.936283)">
+                <path d="M100.526,48.814L100.526,34.462L105.186,29.802L119.539,29.802L100.526,48.814ZM128.116,29.802L142.469,29.802L147.129,34.462L147.129,48.814L128.116,29.802ZM147.129,57.39L147.129,71.745L142.469,76.405L128.114,76.405L147.129,57.39ZM119.542,76.405L105.186,76.405L100.526,71.745L100.526,57.39L119.542,76.405Z" style="fill:rgb(238,238,238);"/>
+            </g>
+            <path id="Hotkey-Accent" affinity:id="Hotkey Accent" d="M192.034,128L128,192.034L80.632,144.667L104.202,144.667L128,168.464L168.464,128L192.034,128Z" style="fill:rgb(253,213,0);"/>
+            <path d="M168.464,128L128,87.536L104.202,111.333L80.632,111.333L128,63.966L192.034,128L168.464,128Z" style="fill:rgb(238,238,238);"/>
+            <path d="M127.999,136.349L72.315,136.349L63.966,128L72.283,119.683L127.999,119.683L127.999,103.016L152.518,128.016L127.999,153.016L127.999,136.349Z" style="fill:rgb(238,238,238);"/>
+        </g>
+    </g>
+</svg>

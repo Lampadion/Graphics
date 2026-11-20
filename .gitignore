@@ -2,5 +2,8 @@
 *.jpg
 *.jpeg
 *.ico
+*.icns
+
+icons/bundle
 
 *.af~lock~
